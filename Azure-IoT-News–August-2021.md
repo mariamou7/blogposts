@@ -1,5 +1,8 @@
 ## Azure IoT News – August 2021 by Think About IoT
 
+Azure IoT News is here, in this blog, for the first time!
+I decided to inform you about Azure updates in the field of IoT every single month.
+
 ## Week 1-8/8
 There wasn’t any update in the first week of this month.
 
