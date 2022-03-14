@@ -18,7 +18,11 @@ With the release of SOAP and XML features, you will be able to reduce the API at
 Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-soap-and-xml-request-and-response-validation/).
 
 ## Week 14-20/3
-Coming soon...
+🔸 Pin analytics tile to dashboards in **Azure IoT Central**.
+
+Continually monitor the data by pinning it as a tile on a dashboard. To pin an analytics tile, you will need to save the analysis query first. While pinning, you will get the option to select the desired dashboard. After pinning, you can update the size, location, and title of the tile by editing the dashboard.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-pinanalyticstodashboard/).
 
 ## Week 21-27/3
 Coming soon...
