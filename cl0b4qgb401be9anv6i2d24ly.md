@@ -24,6 +24,13 @@ Continually monitor the data by pinning it as a tile on a dashboard. To pin an a
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-pinanalyticstodashboard/).
 
+### Related to Azure IoT News
+🔸 **Azure Synapse** Link for **Azure Cosmos DB** partitioning Spark 3.1 is now in public preview.
+
+Partition your Azure Cosmos DB analytical data using keys that are critical for your business logic to achieve better query and data load performance. Partition pruning results in faster analytical queries and loads as fewer data is scanned in the partitioned stores. You can also benefit from the data processing improvements if your workloads have a significant number of updates or deletes. 
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-synapse-link-for-azure-cosmos-db-partitioning-spark-31/).
+
 ## Week 21-27/3
 Coming soon...
 
