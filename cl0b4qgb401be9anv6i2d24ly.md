@@ -31,6 +31,20 @@ Partition your Azure Cosmos DB analytical data using keys that are critical for 
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-synapse-link-for-azure-cosmos-db-partitioning-spark-31/).
 
+🔸 Protect **Azure Static Web Apps** environments with a password.
+
+Password protection is a user-friendly feature that provides low-level security. It can be used in addition to Static Web Apps Authentication.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-protect-azure-static-web-apps-environments-with-a-password-2/).
+
+🔸 Azure Private Link support in **Azure API Management** is now in public preview.
+
+With this, incoming traffic to Azure API Management's gateway can be secured to clients running in a virtual network through Azure Private Link. This will limit access to Azure API Management by assigning a virtual network private IP address to the Azure API Management gateway using Azure Private Link.
+
+Previously, only Developer and Premium tiers supported this integration with a virtual network. With this update, you can now integrate to clients in a virtual network privately, using the tiers-Developer, Basic, Standard, and Premium.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-private-link-support-in-azure-api-management-2/).
+
 ## Week 21-27/3
 Coming soon...
 
