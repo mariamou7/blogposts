@@ -20,14 +20,26 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-
 ## Week 14-20/3
 🔸 Pin analytics tile to dashboards in **Azure IoT Central**.
 
-Continually monitor the data by pinning it as a tile on a dashboard. To pin an analytics tile, you will need to save the analysis query first. While pinning, you will get the option to select the desired dashboard. After pinning, you can update the size, location, and title of the tile by editing the dashboard.
+Continually monitor the data by pinning it as a tile on a dashboard. To pin an analytics tile, you will need to save the analysis query first. While pinning, you will get the option to select the desired dashboard. After pinning, you can update the tile's size, location, and title by editing the dashboard.
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-pinanalyticstodashboard/).
+
+🔸 On 31 March 2023, Event Grid on **Azure IoT Edge** public preview will be retired. 
+
+Before that date, please transition to the standard messaging protocol for IoT (MQTT) on Azure IoT Edge. Applications using Event Grid on IoT preview release will no longer be supported after 31 March 2023.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/migrate-to-mqtt-broker-on-azure-iot-edge-by-31-march-2023/).
+
+🔸 **IoT Hub** on Azure Stack Hub public preview will be retired on 30 September 2022.
+
+Before that date, it's recommended to migrate to Azure IoT Edge gateway. Alternatively, you can host a VM on another physical hardware of your choice.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-iot-hub-on-azure-stack-hub-preview-will-be-retired-and-it-will-not-go-to-ga/).
 
 ### Related to Azure IoT News
 🔸 **Azure Synapse** Link for **Azure Cosmos DB** partitioning Spark 3.1 is now in public preview.
 
-Partition your Azure Cosmos DB analytical data using keys that are critical for your business logic to achieve better query and data load performance. Partition pruning results in faster analytical queries and loads as fewer data is scanned in the partitioned stores. You can also benefit from the data processing improvements if your workloads have a significant number of updates or deletes. 
+Partition your Azure Cosmos DB analytical data using keys that are critical for your business logic to achieve better query and data load performance. Partition pruning results in faster analytical queries and loads as fewer data is scanned in the partitioned stores. You can also benefit from the data processing improvements if your workloads have many updates or deletes.
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-synapse-link-for-azure-cosmos-db-partitioning-spark-31/).
 
@@ -44,6 +56,12 @@ With this, incoming traffic to Azure API Management's gateway can be secured to 
 Previously, only Developer and Premium tiers supported this integration with a virtual network. With this update, you can now integrate to clients in a virtual network privately, using the tiers-Developer, Basic, Standard, and Premium.
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-private-link-support-in-azure-api-management-2/).
+
+🔸 Extended support for **Microsoft .NET** Core 3.1 will end on 3 December 2022.
+
+After that date, your applications hosted on Functions will continue to run and your applications will not be impacted. However, Microsoft will no longer provide patches or customer service for .NET Core 3.1.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/extended-support-for-microsoft-net-core-31-will-end-on-3-december-2022/).
 
 ## Week 21-27/3
 Coming soon...
