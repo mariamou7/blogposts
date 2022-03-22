@@ -64,7 +64,15 @@ After that date, your applications hosted on Functions will continue to run and 
 Read more [here](https://azure.microsoft.com/en-gb/updates/extended-support-for-microsoft-net-core-31-will-end-on-3-december-2022/).
 
 ## Week 21-27/3
-Coming soon...
+🔸 Connect and manage devices in **Azure IoT Central** without models.
+
+You can now connect devices, send data, and run commands without having first to create a device model/template, enabling a low friction first-run experience.
+
+Once the devices are cloud-connected, you can progressively build the models to leverage a wide set of out-of-the-box capabilities in Azure IoT Central.
+
+In addition to running commands on devices without models, you can also create relationships between devices without having to first create device templates and attach gateway devices to unassigned leaf devices, enabling you to easily represent device topologies.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-manage-devices-without-models/).
 
 ## Week 28-31/3
 Coming soon...
