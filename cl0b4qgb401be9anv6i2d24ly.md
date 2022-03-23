@@ -74,6 +74,19 @@ In addition to running commands on devices without models, you can also create r
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-manage-devices-without-models/).
 
+### Related to Azure IoT News
+🔸 **Azure Time Series Insights** will be retired on 31 March 2025.
+
+That will happen, because Azure Data Explorer now provides a data analytics service for streaming telemetry data. Due to that, you have to make a transition to using Azure Data Explorer by that date.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/we-ll-retire-azure-time-series-insights-on-31-of-march-2025/).
+
+🔸 On 31 March 2023, Microsoft is making the resource providers for the **Azure API Management** zone redundant in each region.
+
+You have to review your VNET configurations that may be affected by IP address changes.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/ip-address-changes-will-begin-affecting-your-ability-to-manage-your-virtual-networkenabled-api-management-services-on-31-marc/).
+
 ## Week 28-31/3
 Coming soon...
 
