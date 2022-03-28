@@ -87,8 +87,28 @@ You have to review your VNET configurations that may be affected by IP address c
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/ip-address-changes-will-begin-affecting-your-ability-to-manage-your-virtual-networkenabled-api-management-services-on-31-marc/).
 
+🔸 **Azure Machine Learning** user-defined functions are now in general availability in **Azure Stream Analytics**.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/ga-amludf-asa/).
+
+🔸 **Azure Data Explorer** supports multiple databases per data connection.
+
+So far, the target database was always the database associated with the data connection.
+
+Now, you can dynamically route the data to an alternate database, by setting the Database ingestion property. For security reasons, this option is disabled by default.
+
+To send the data to a different database, you must first set the connection as a multi-database data connection. 
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-data-explorer-now-supports-multiple-databases-on-a-single-data-connection/).
+
+🔸 User-assigned managed identities in **Stream Analytics**.
+
+This solves a common challenge when building cloud applications related to credential management. Keeping the credentials secure is important and shouldn't be stored in developer workstations or checked into source control.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/asa-uami/).
+
 ## Week 28-31/3
-Coming soon...
+There isn't any news for this week, yet.
 
 ## Closing
 That’s all folks! 👋
