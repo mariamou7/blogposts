@@ -1,7 +1,7 @@
 ## Azure IoT News – March 2022 by Think About IoT
 
 ## Week 1-6/3
-### Related to Azure IoT News
+### Related to Azure IoT News for Week 1-6/3
 🔸 API language runtime version specification in **Azure Static Web Apps** is now available.
 
 Azure Static Web Apps allow the configuration of various settings such as routing, authentication, and networking via the staticwebapp.config.json file. You can now specify an API language runtime via the same configuration file. 
@@ -9,7 +9,7 @@ Azure Static Web Apps allow the configuration of various settings such as routin
 Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-specify-api-language-runtime-version-in-azure-static-web-apps/).
 
 ## Week 7-13/3
-### Related to Azure IoT News
+### Related to Azure IoT News for Week 7-13/3
 
 🔸 **SOAP** and **XML** request and response validation are now in general availability.
 
@@ -36,7 +36,7 @@ Before that date, it's recommended to migrate to Azure IoT Edge gateway. Alterna
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/azure-iot-hub-on-azure-stack-hub-preview-will-be-retired-and-it-will-not-go-to-ga/).
 
-### Related to Azure IoT News
+### Related to Azure IoT News for Week 14-20/3
 🔸 **Azure Synapse** Link for **Azure Cosmos DB** partitioning Spark 3.1 is now in public preview.
 
 Partition your Azure Cosmos DB analytical data using keys that are critical for your business logic to achieve better query and data load performance. Partition pruning results in faster analytical queries and loads as fewer data is scanned in the partitioned stores. You can also benefit from the data processing improvements if your workloads have many updates or deletes.
@@ -74,7 +74,7 @@ In addition to running commands on devices without models, you can also create r
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-manage-devices-without-models/).
 
-### Related to Azure IoT News
+### Related to Azure IoT News for Week 21-27/3
 🔸 **Azure Time Series Insights** will be retired on 31 March 2025.
 
 That will happen, because Azure Data Explorer now provides a data analytics service for streaming telemetry data. Due to that, you have to make a transition to using Azure Data Explorer by that date.
@@ -108,7 +108,40 @@ This solves a common challenge when building cloud applications related to crede
 Read more [here](https://azure.microsoft.com/en-gb/updates/asa-uami/).
 
 ## Week 28-31/3
-There isn't any news for this week, yet.
+🔸 **Edge** Device Image Builder is now in public preview.
+
+This preview allows original equipment manufacturers (OEMs) to:
+
+- build secure devices,
+- easily create Azure Connected Devices,
+- build more reliable devices.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-edge-device-image-builder/).
+
+### Related to Azure IoT News for Week 28-31/3
+🔸 Node.js 16 in **Azure Functions** is now in general availability.
+
+Node.js 16.x is the latest long-term support (LTS) release of the Node.js runtime and includes features such as a new version of the V8 JavaScript engine.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-nodejs-16-in-azure-functions-2/).
+
+🔸 Cross-region snapshot copy for **Azure Disk Storage**.
+
+Copy incremental snapshots to any region of your choice for disaster recovery, using a cross-region snapshot copy. Azure manages the copy process and ensures that only changes since the last snapshot in the target region are copied, reducing the data footprint and recovery point objective (RPO). 
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-crossregion-snapshot-copy-for-azure-disk-storage/).
+
+🔸 Always Encrypted for **Azure Cosmos DB**.
+
+Encrypt sensitive data inside your client application before it gets stored in your database, with Always Encrypted for Azure Cosmos DB.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-always-encrypted-for-azure-cosmos-db/).
+
+🔸 **Azure Cosmos DB** partition key advisor notebook.
+
+Use the Azure Cosmos DB partition key advisor notebook to choose the optimal partition key for your workload.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-cosmos-db-partition-key-advisor-notebook/).
 
 ## Closing
 That’s all folks! 👋
