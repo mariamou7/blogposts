@@ -1,7 +1,7 @@
 ## Azure IoT News – April 2022 by Think About IoT
 
 ## Week 1-3/4
-🔸 Support for copying tiles added to Azure IoT Central.
+🔸 Support for copying tiles added to **Azure IoT Central**.
 
 Leverage your existing work to quickly build new visuals by duplicating an existing tile using Copy Tile. While creating a copy, you will get the option to copy the tile to the current dashboard, an existing dashboard, or a new dashboard. After creating a copy, you are free to modify the tile as per your needs.
 
