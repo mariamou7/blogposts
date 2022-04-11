@@ -17,7 +17,11 @@ You can now create private endpoints to limit and secure device connectivity to 
 Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-private-link/).
 
 ## Week 11-17/4
-Coming soon...
+🔸 Customize application text labels in **Azure IoT Central**.
+
+With this new capability, you can replace the "Device" label in your application with your preferred text.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-replacetextlabels/).
 
 ## Week 18-24/4
 Coming soon...
