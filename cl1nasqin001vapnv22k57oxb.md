@@ -23,6 +23,25 @@ With this new capability, you can replace the "Device" label in your application
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-replacetextlabels/).
 
+🔸 **Azure Sphere** OS version 22.04 is now available in the Retail feed.
+
+This release includes an upgrade to the Linux kernel (5.10.103) and bug fixes in the Azure Sphere OS, but it doesn't include an updated SDK. If your devices are connected to the internet, they will receive the updated OS from the cloud.
+
+The updates that this release includes mitigate against the following Common Vulnerabilities and Exposures (CVEs) are:
+
+- wolfSSL CVE-2022-25638
+- wolfSSL CVE-2022-25640
+- C-Ares CVE-2021-3672
+- Linux CVE-2022-0847 “Dirty Pipe”
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-azure-sphere-os-version-2204/).
+
+🔸 Migrate devices across templates at scale in **Azure IoT Central**.
+
+This new feature in jobs will help you conveniently perform this task at scale. With this feature, you not only take advantage of moving devices from one device template to another at scale, but also take advantage of the existing jobs delivery options feature where you can stagger your migration in batches in production scenarios. In addition, you can also migrate device templates across edge devices, which will help deliver the deployment manifest to edge devices at scale.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-migrate-devices-across-templates/).
+
 ## Week 18-24/4
 Coming soon...
 
