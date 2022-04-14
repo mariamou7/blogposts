@@ -42,6 +42,19 @@ This new feature in jobs will help you conveniently perform this task at scale. 
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-migrate-devices-across-templates/).
 
+### Related to Azure IoT News for Week 11-17/4
+🔸 **Azure Cosmos DB** API for MongoDB unique index re-indexing.
+
+This feature allows you to create unique indexes when your collection was empty and did not contain documents. This provides you with more flexibility by giving you the ability to create unique indexes whenever you want to.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-cosmos-db-api-for-mongodb-unique-index-reindexing/).
+
+🔸 **Azure Cosmos DB** autoscale RU/s entry point is 4x lower.
+
+With Azure Cosmos DB autoscale, you can now set a scale range of 100 – 1000 RU/s.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-azure-cosmos-db-autoscale-rus-entry-point-is-4x-lower/).
+
 ## Week 18-24/4
 Coming soon...
 
