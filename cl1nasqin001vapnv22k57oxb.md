@@ -56,10 +56,41 @@ With Azure Cosmos DB autoscale, you can now set a scale range of 100 – 1000 RU
 Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-azure-cosmos-db-autoscale-rus-entry-point-is-4x-lower/).
 
 ## Week 18-24/4
-Coming soon...
+There wasn't any news this week.
 
 ## Week 25-30/4
-Coming soon...
+### Related to Azure IoT News for Week 25-30/4
+🔸 **Azure Functions** now supports PowerShell 7.2.
+
+This feature enables developing and deploying Azure Functions Apps for production scenarios using the latest version of PowerShell. 
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-functions-now-supports-powershell-72/).
+
+🔸 Unique partial indexes in **Azure Cosmos DB** API for MongoDB are now in general availability.
+
+This feature allows you more flexibility to specify exactly which fields in which documents you’d like to index, all while enforcing the uniqueness of that field’s value.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-unique-partial-indexes-in-azure-cosmos-db-api-for-mongodb/).
+
+🔸 Visualize your **Azure Cosmos DB** data in near real-time, seamlessly using the integrated Power BI experience in the Azure Cosmos DB portal.
+
+Azure Synapse Link allows you to build Power BI reports and dashboards with no performance or cost impact on your transactional workloads or ETL pipelines.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-azure-cosmos-db-portal-azure-synapse-link-seamless-power-bi/).
+
+🔸 **Azure Synapse Link** now supports existing Azure Cosmos DB containers.
+
+Enable Azure Synapse Link for your existing Azure Cosmos DB containers to trigger the initial sync of the data from the transactional store to the analytical store. There is no cost or performance impact on your transactional workloads to use this feature from the Azure Portal, Azure Cosmos DB SDKs, Azure CLI, or PowerShell.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-azure-synapse-link-now-supports-existing-azure-cosmos-db-containers/).
+
+🔸 **Azure Functions** Linux Elastic Premium plan increased maximum scale-out limits.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits/).
+
+🔸 **Azure Machine Learning** Reinforcement Learning preview will be retired on 30 June 2022.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-machine-learning-reinforcement-learning-preview-will-be-retired-after-june-2022/).
 
 ## Closing
 That’s all folks! 👋
