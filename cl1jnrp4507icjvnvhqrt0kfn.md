@@ -82,7 +82,7 @@ Moreover, the Rhodian newspaper ["Rodiaki"](https://www.rodiaki.gr/) published [
 
 ## Closing
 So, this was my March!
-Have an incredible month! I hope March will be great for all of us with peace and health! ✨🕊️
+Have an incredible month! I hope April will be great for all of us, with peace and health! ✨🕊️
 
 See you around, 
 Maria-Anastasia 
