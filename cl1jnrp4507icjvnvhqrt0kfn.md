@@ -14,7 +14,7 @@ Another good news this month was that I participated in my first Microsoft MVP S
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649011356125/tu84x_LHB.png)
 
 ## Blog news
-I wrote two [blog](https://www.thinkaboutiot.com/index.php/home/) posts this month! You can find them [here](https://www.thinkaboutiot.com/index.php/2022/03/), or you can continue reading about them in this article. 👇
+I wrote three [blog](https://www.thinkaboutiot.com/index.php/home/) posts this month! You can find them [here](https://www.thinkaboutiot.com/index.php/2022/03/), or you can continue reading about them in this article. 👇
 
 ### Azure IoT News
 As every month, I have written an article about Azure IoT news for this month.
