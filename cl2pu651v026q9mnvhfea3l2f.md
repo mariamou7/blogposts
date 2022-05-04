@@ -20,6 +20,10 @@ This service supports multi-users for you to leverage your team of labellers for
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-azure-machine-learning-announcements-for-march-2022/).
 
+🔸 **Event Grid** enables user authorization to create partner topics.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-event-grid-enables-user-authorization-to-create-partner-topics/).
+
 ## Week 9-15/5
 Coming soon...
 
