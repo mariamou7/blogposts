@@ -1,6 +1,16 @@
 ## Azure IoT News – May 2022 by Think About IoT
 
 ## Week 1-8/5
+🔸 Update your **IoT Edge** devices on **Raspberry Pi OS** Stretch.
+
+Because community support for Debian 9 (Stretch) LTS will end on June 30, 2022, Microsoft will no longer release patch updates for IoT Edge on Raspberry Pi OS Stretch devices.
+
+Your IoT Edge device will continue to run, and your applications will not be impacted. Previously published packages for Stretch will continue to be available.
+
+However, after that date, Microsoft will no longer be publishing patch releases of IoT Edge's armhf packages targeting Stretch.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/update-rpios-stretch-to-latest/).
+
 ### Related to Azure IoT News for Week 1-8/5
 🔸 User identity pass-through allows your admins to compartmentalize access to data within an **Azure Machine Learning** workspace.
 
