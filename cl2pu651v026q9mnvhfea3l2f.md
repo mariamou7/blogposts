@@ -35,7 +35,13 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-
 Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-event-grid-enables-user-authorization-to-create-partner-topics/).
 
 ## Week 9-15/5
-Coming soon...
+🔸 **Azure IoT Edge** now supports Debian Bullseye on ARM32v7.
+
+Official IoT Edge installation packages targeting ARM32v7 for the latest releases (1.1.13 and 1.2.9) are now available from Microsoft's package repository.
+
+The packages can be used for either Debian 11 (Bullseye) or the latest Raspberry Pi OS.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-iot-edge-supports-debian-bullseye-arm32v7/).
 
 ## Week 16-22/5
 Coming soon...
