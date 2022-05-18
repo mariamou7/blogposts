@@ -44,8 +44,13 @@ The packages can be used for either Debian 11 (Bullseye) or the latest Raspberry
 Read more [here](https://azure.microsoft.com/en-gb/updates/azure-iot-edge-supports-debian-bullseye-arm32v7/).
 
 ## Week 16-22/5
-### Related to Azure IoT News for Week 16-22/5
+🔸 Industrial IoT Connectivity Partners integrate with **Azure IoT Central**.
 
+With this update comes the integration of Industrial Connectivity Partners - CloudRail and Omnio. With seamless integration for both greenfield and brownfield scenarios, these partners are simplifying the connectivity of assets and the onboarding of data to the Azure Cloud via Azure IoT Central.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-iiot-frontdoor/).
+
+### Related to Azure IoT News for Week 16-22/5
 🔸 Additional support for managed identity authentication in **Azure Stream Analytics**.
 
 Stream Analytics now allows you to use managed identities as an authentication mode when connecting to Azure Cosmos DB and Azure Service Bus. You can use either System-Assigned Managed Identity or your own User-Assigned Managed Identity when authenticating.
