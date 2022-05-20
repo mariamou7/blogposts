@@ -50,6 +50,17 @@ With this update comes the integration of Industrial Connectivity Partners - Clo
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-iiot-frontdoor/).
 
+🔸 Easily manage your **Azure IoT Central** dashboards using a catalog.
+
+In addition to viewing the dashboards in a nicely formatted list with additional metadata, you will now be able to:
+- search them based on the name
+- sort them based on the name
+- easily mark your frequently used dashboards as favorites, so they appear at the top of the list.
+
+This will also help when trying to use Azure IoT Central dashboards on a small form factor device.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-dashboards-catalog/).
+
 ### Related to Azure IoT News for Week 16-22/5
 🔸 Additional support for managed identity authentication in **Azure Stream Analytics**.
 
