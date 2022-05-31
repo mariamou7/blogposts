@@ -71,10 +71,107 @@ This solves a common challenge when building cloud applications related to crede
 Read more [here](https://azure.microsoft.com/en-gb/updates/cosmosdb-servicebus-asami/).
 
 ## Week 23-29/5
-Coming soon...
+This week we have a lot of IoT news, due to **Microsoft Build 2022**.
+
+🔸 **Azure IoT Hub** IP address change notification.
+
+IoT Hub will be updating the underlying infrastructure and will go through an internal service update to improve the reliability of device connections. The update will change the underlying DNS record for IoT Hub, resulting in a change in the IP address.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/iot-hub-ip-address-change-notification/).
+
+🔸 **Azure Digital Twins** 3D Scenes Studio is now in public preview.
+
+With a digital twins graph and curated 3D model, your subject-matter experts can
+- leverage the Studio’s low-code builder to map the 3D objects to the digital twin and
+- define business logic for a 3D Scene
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-digital-twins-3d-scenes-studio/).
+
+🔸 **Stream Analytics** no code editor is now in public preview.
+
+Stream Analytics no code editor provides a drag and drop experience to develop your jobs and reduce the barrier to entry.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/asanocodeeditor/).
+
+🔸 Increased size of **Stream Analytics** jobs and clusters.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/asasizeincrease/).
+
+🔸 We have **Stream Analytics** query development improvements.
+
+New updates to the Stream Analytics portal experience include:
+
+- New "get started" experience.
+- Improved edit experience.
+- Output schema mismatch detection allows you to know if the test results of your query match what your Azure SQL Database table expects.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/asaqueryimprovements/).
+
+🔸 **Stream Analytics** jobs now support native autoscaling.
+
+This update allows you to efficiently optimize the number of streaming units assigned to your job.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/asaautoscalejobs/).
+
+### Related to Azure IoT News for Week 23-29/5
+🔸 **GraphQL** pass-through support in **Azure API Management** is now in general availability.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-graphql-passthrough-support-in-azure-api-management/).
+
+🔸 **Synthetic GraphQL** is now in public preview.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-synthetic-graphql/).
+
+🔸 **Azure Functions** Kafka trigger support is now generally available. 
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-functions-kafka-trigger-support/).
+
+🔸 Updated extension defaults for new **Azure Functions** projects are now generally available.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-updated-extension-defaults-for-new-azure-functions-projects/).
+
+🔸 **Durable functions** support for isolated .NET worker process is now in public preview.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-durable-functions-support-for-isolated-net-worker-process/).
+
+🔸 Dynamic concurrency in **Azure Functions** automatically determines optimal per trigger concurrency settings for your workloads and adjusts as your load patterns change over time.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-dynamic-concurrency-in-azure-functions/).
+
+🔸 Apps can now target **.NET Framework** when running in the isolated process mode in **Azure Functions** v4.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-functions-net-framework-support-in-the-isolated-worker-model/).
+
+🔸 You can now connect to **Azure storage** with durable functions using the managed identity of the Function app instead of embedding secrets in the connection string.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-durable-functions-support-for-managed-identity-for-azure-storage/).
+
+🔸 The **Azure Cosmos DB Python SDK** async IO support capability can improve Python application performance and responsiveness by running tasks concurrently rather than one after the other.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-azure-cosmos-db-python-sdk-async-io-support/).
+
+🔸 **Azure Cosmos DB** introduces several new features to help you achieve the best database scalability and performance.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-enhanced-elasticity-features-for-azure-cosmos-db/).
+
+🔸 **Azure Cosmos DB API** for **MongoDB** data plane RBAC is now in public preview.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-cosmos-db-api-for-mongodb-data-plane-rbac/).
+
+🔸 **Azure Machine Learning** managed endpoints and Command Line Interface v2 is now generally available.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-machine-learning-managed-endpoints-and-command-line-interface-v2/).
+
+🔸 **Azure Machine Learning**'s Responsible AI dashboard, now in preview, is a new feature that helps developers and data scientists implement Responsible AI easily. 
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-machine-learning-updates/).
+
+🔸 **Azure SQL** bindings for **Azure Functions** are now expanded to include support for **JavaScript** and **Python** functions.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-javascript-and-python-support-in-azure-sql-bindings/).
 
 ## Week 30-31/5
-Coming soon...
+There isn't any news for this week.
 
 ## Closing
 That’s all folks! 👋
@@ -83,6 +180,6 @@ Take care of yourself! 🙂
 
 If you have any questions, please reach out!
 
-P.S. This article will be updated every single week for this month, so don’t forget to check it again when May will come to the end.
+P.S. This article will be updated every week for this month, so don’t forget to check it again when May will come to an end.
 
 You can also be informed about [Azure IoT News for April 2022](https://www.thinkaboutiot.com/index.php/2022/04/06/azure-iot-news-april-2022-by-think-about-iot/).
