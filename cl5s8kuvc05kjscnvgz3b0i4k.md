@@ -28,12 +28,23 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-a
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/azure-iot-edge-130-release-is-now-generally-available/).
 
-🔸 Exporting device customizations and cloud properties in Azure IoT Central is now generally available.
+🔸 Exporting device customizations and cloud properties in **Azure IoT Central** is now generally available.
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-export-customizations-and-cloud-properties/).
 
 ## Week 18-24/7
-Coming soon...
+### Related to Azure IoT News for Week 18-24/7
+🔸 **Azure Event Grid** partner events are now generally available.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-event-grid-partner-events/).
+
+🔸 **.NET 7** support for **Azure Functions** in isolated process model in public preview.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/pubic-preview-net-7-support-for-azure-functions-in-isolated-process-model/).
+
+🔸 **Azure Functions** support for **PowerShell** 7.2 enables developing and deploying Azure Function Apps for production scenarios using the latest version of PowerShell.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-functions-support-for-powershell-72/).
 
 ## Week 25-31/7
 Coming soon...
