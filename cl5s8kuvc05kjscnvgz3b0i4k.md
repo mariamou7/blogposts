@@ -33,6 +33,10 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/azure-iot-edge-130-re
 Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-export-customizations-and-cloud-properties/).
 
 ## Week 18-24/7
+🔸 Microsoft released guidance and sample code to help you integrate your **Azure IoT Central** applications into your own Azure pipelines.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-ci-cd-guidance/).
+
 ### Related to Azure IoT News for Week 18-24/7
 🔸 **Azure Event Grid** partner events are now generally available.
 
@@ -47,7 +51,7 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/pubic-preview-net-7-s
 Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-functions-support-for-powershell-72/).
 
 ## Week 25-31/7
-Coming soon...
+There isn't any news for this week, yet.
 
 ## Closing
 That’s all folks! 👋
