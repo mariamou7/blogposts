@@ -51,12 +51,40 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/pubic-preview-net-7-s
 Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-functions-support-for-powershell-72/).
 
 ## Week 25-31/7
-There isn't any news for this week, yet.
+🔸 Guided tour experience added to **Azure IoT Central**.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/iotc-first-run/).
+
+🔸 The **Azure Sphere** 22.07 feature release is now available.
+
+This release includes the following components:
+- Updated Azure Sphere OS 
+- Updated Azure Sphere SDK for Windows and for Linux
+- Updated Azure Sphere extensions for Visual Studio and for Visual Studio Code 
+- Updated samples and documentation 
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-azure-sphere-version-2207/).
+
+### Related to Azure IoT News for Week 25-31/7
+
+🔸 **Azure Stream Analytics** is now available in four new regions.
+
+These regions are:
+- China East 3
+- China North 3
+- US DoD East
+- US Gov Texas
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-stream-analytics-in-5-new-regions/).
+
+🔸 **SQL** DB output connector improvements in **Stream Analytics**.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-stream-analytics-allows-creation-of-new-sql-tables-and-schema-mismatch-detection-for-existing-sql-tables/).
 
 ## Closing
 That’s all folks! 👋
 
-Take care of yourself! 🙂
+Take care of yourself and have a wonderful summer! 😊🐬
 
 If you have any questions, please reach out!
 
