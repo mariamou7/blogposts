@@ -12,7 +12,7 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-net-7-
 Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-audit-log-for-continuous-mode-with-azure-cosmos-db/).
 
 ## Week 8-14/8
-Coming soon...
+There isn't any news for this week.
 
 ## Week 15-21/8
 Coming soon...
