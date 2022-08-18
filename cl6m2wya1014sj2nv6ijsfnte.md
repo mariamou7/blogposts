@@ -15,7 +15,26 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-a
 There isn't any news for this week.
 
 ## Week 15-21/8
-Coming soon...
+### Related to Azure IoT News for Week 8-14/8
+🔸 **Azure API Management** support for the MSAL authorization library is now generally available.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-api-management-support-for-msal-in-developer-portal/).
+
+🔸 **Azure API Management** now supports 11 Azure Policy definitions.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-api-management-expanded-support-for-azure-policy-definitions/).
+
+🔸 AutoML Code Generation in **Azure Machine Learning** is now available for all 10 AutoML tasks.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-machine-learning-public-preview-updates-for-august-2022/).
+
+🔸 AutoML in **Pipelines ** allows you to utilize the full power of AutoML in your MLOps process.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-machine-learning-public-preview-updates-for-august-2022/).
+
+🔸 Hierarchical forecasting for **Azure Machine Learning** is now available.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-hierarchical-forecasting-for-azure-machine-learning/).
 
 ## Week 22-28/8
 Coming soon...
