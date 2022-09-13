@@ -37,7 +37,22 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/azure-machine-learnin
 Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-hierarchical-forecasting-for-azure-machine-learning/).
 
 ## Week 22-28/8
-Coming soon...
+### Related to Azure IoT News for Week 22-28/8
+🔸 Managed identity is now in public preview in no code editor in **Event Hubs**.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/).
+
+🔸 Azure Data Lake StorageGen2 reference data is now in public preview in no code editor in **Event Hubs**.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/).
+
+🔸 Metrics is now in public preview in no code editor in **Event Hubs**.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/).
+
+🔸 Save job is now in public preview in no code editor in **Event Hubs**.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/).
 
 ## Week 29-31/8
 Coming soon...
