@@ -4,18 +4,17 @@
 
 🔸 A device update for **Azure IoT Hub** is now generally available.
 
-This update has the following new functions:  
+This update has the following new functions:
 
 *   Automatic group provisioning will automatically create groups of devices.
     
-
 *   Improved troubleshooting features.
     
 *   Automatic rollback enables defining a fallback version for your managed devices.
     
 *   Azure CLI Support enables the creation and manages Device Update resources, groups, and deployments using command line functions.
     
-*   Support for OS platforms such as Ubuntu 18.04 and Ubuntu 20.04. 
+*   Support for OS platforms such as Ubuntu 18.04 and Ubuntu 20.04.
     
 *   Support in all Azure Hero regions.
     
@@ -128,16 +127,16 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/iot-hub-cosmos-db-cus
 
 ## Week 28-30/11
 
+### Related to Azure IoT News for Week 28-30/11
+
 🔸 12 months of free services for new **Azure PAYG** customers are now in general availability.
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-12-months-free-services-for-new-azure-payg-customers/?WT.mc_id=IoT-MVP-5004643).
 
-  
 🔸 You can now select the latest major version of **PostgreSQL** 15 in **Azure Cosmos DB** for PostgreSQL for a new cluster.
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-postgresql-15-support-in-azure-cosmos-db-for-postgresql/?WT.mc_id=IoT-MVP-5004643).
 
-  
 🔸 **Azure Blob Storage** integration with **Azure Cosmos DB** for **PostgreSQL** is now in general availability.
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-blob-storage-integration-with-azure-cosmos-db-for-postgresql/?WT.mc_id=IoT-MVP-5004643).
