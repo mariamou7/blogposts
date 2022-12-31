@@ -76,6 +76,8 @@ I wrote the “[**AMA – Ask Me Anything at Reactor: Azure IoT**](https://www.t
 
 Another significant change for me was that the Microsoft MVP program had announced new categories, and I have become an **Internet of Things Microsoft MVP**!
 
+Plus, I reached **3000 followers** on Twitter!!!
+
 Last but not least, I travelled with my family, and we had a great tour around the Peloponnese.
 
 ### August
