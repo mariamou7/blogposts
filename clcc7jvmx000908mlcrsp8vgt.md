@@ -12,7 +12,7 @@ Moreover, my robotics students and I participated in the **Mega Event** of the U
 
 In February, I passed the **Azure AI Fundamentals** exam!
 
-Also, I wrote the “[**Azure IoT News – February 2022 by Think About IoT**](https://www.thinkaboutiot.com/index.php/2022/02/01/azure-iot-news-february-2022-by-think-about-iot/)” and the “[**Catch up with me – January 2022**](https://www.thinkaboutiot.com/index.php/2022/02/02/catch-up-with-me-january-2022/)”.
+Also, I wrote the “[**Azure IoT News – February 2022 by Think About IoT**](https://www.thinkaboutiot.com/index.php/2022/02/01/azure-iot-news-february-2022-by-think-about-iot/)” and “[**Catch up with me – January 2022**](https://www.thinkaboutiot.com/index.php/2022/02/02/catch-up-with-me-january-2022/)”.
 
 ### March
 
@@ -64,13 +64,13 @@ Moreover, I had two dancing performances and I loved every single moment of that
 
 In July, I have the honour to receive a massive gift from [Elgato](https://www.elgato.com/) for appreciating my community work and wanting to help me to reach more with all of these premium products!
 
-![No alternative text description for this image](https://media.licdn.com/dms/image/C4D22AQH1bHXRRQeEzA/feedshare-shrink_2048_1536/0/1658334539727?e=1675296000&v=beta&t=7C7XVsGCAwZaTrV2UQn8ky3J3MRshsU9Hqt43jp-wOE align="center")
+![No alternative text description for this image](https://media.licdn.com/dms/image/C4D22AQH1bHXRRQeEzA/feedshare-shrink_800/0/1658334539405?e=1679529600&v=beta&t=I8r9KJ0Nh_PTlZd8MwjcxLp9HYxUTsurguwsn9eITPM align="center")
 
 Also, my robotics students made me very proud once again! All 3 projects that we submitted in the 4th Panhellenic Competition of Open Educational Technologies were distinguished among 130 projects.
 
-![Μπορεί να είναι εικόνα κείμενο που λέει "ΟΜΑΔΕΣ (ΚΑΤΗΓΟΡΙΑ ΝΗΠΙΑ ΩΓΕΙΩΝ) Robotakia με έργο missionrobotakia (ΚΑΤΗΓΟΡΙΑΔΗΜΟΤΙΚΩΝ) Κοινωφελές Ίδρυμα Υποτροφιών Ρόδου Εμμανουήλ Χριστ. Σταματίου Μαίρης Σταματίου έργο CoderDojo Votanikos έργα δεινόσρκι ταμπελάκι, Play with Economy Simulator, Robotakia έργα Οκύκλος του νερού Waterboot, Eco-robots, system και Να κοιτάτε πάνω The team the Future εργο kdECOdaminator Κοινωφελές Ίδρυμα Υποτροφιών Ρόδου Εμμανουήλ Χριστ. Σταματίου ΠΕΚΤΠΕ Γρεβενών έργο Διαχωριστής Υλικών Οδηγοί Νέας Ιωνίας Μαγνησίας έργο αδοσακλασης.μεαθηήραιαπόσταστης Robotakia έργα Photon Fruit-ful Μαίρης Σταματίου με (ΚΑΤΗΓΟΡΙΑΛΥΚΕΙΩΝ) έργο Environmental Σύλλογος Πανοράματος Γαλατσίου Αγία Ειρήνη" έργο Ένα Οικολογικό, Σύγχρονο και Αυτόνομο Κοινωφελές Ιδρυμα Υποτροφιών Ρόδου Εμμανουήλ Χριστ. ταματίου Μαίρης Σταματίου έργο age_bin Primes έργο EcoSeed"](https://scontent.fath3-4.fna.fbcdn.net/v/t39.30808-6/292000815_5861496290530420_147696347011162390_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHPIVPbOeKVBTTSd2a6yfIL_H3ATTG4KBX8fcBNMbgoFRv5Pv48D6p32Lc2_UYJtpwDeQcyEQ2HgCad-BLhmDxp&_nc_ohc=DfQ1-3pP-k8AX8g2fOP&_nc_ht=scontent.fath3-4.fna&oh=00_AfAs58JaGML6MvUjnkGA_LBMLHS3WsfI8Ih0nXhyPXoPRQ&oe=63B56651 align="center")
+![Μπορεί να είναι εικόνα κείμενο που λέει "ΟΜΑΔΕΣ (ΚΑΤΗΓΟΡΙΑ ΝΗΠΙΑ ΩΓΕΙΩΝ) Robotakia με έργο missionrobotakia (ΚΑΤΗΓΟΡΙΑΔΗΜΟΤΙΚΩΝ) Κοινωφελές Ίδρυμα Υποτροφιών Ρόδου Εμμανουήλ Χριστ. Σταματίου Μαίρης Σταματίου έργο CoderDojo Votanikos έργα δεινόσρκι ταμπελάκι, Play with Economy Simulator, Robotakia έργα Οκύκλος του νερού Waterboot, Eco-robots, system και Να κοιτάτε πάνω The team the Future εργο kdECOdaminator Κοινωφελές Ίδρυμα Υποτροφιών Ρόδου Εμμανουήλ Χριστ. Σταματίου ΠΕΚΤΠΕ Γρεβενών έργο Διαχωριστής Υλικών Οδηγοί Νέας Ιωνίας Μαγνησίας έργο αδοσακλασης.μεαθηήραιαπόσταστης Robotakia έργα Photon Fruit-ful Μαίρης Σταματίου με (ΚΑΤΗΓΟΡΙΑΛΥΚΕΙΩΝ) έργο Environmental Σύλλογος Πανοράματος Γαλατσίου Αγία Ειρήνη" έργο Ένα Οικολογικό, Σύγχρονο και Αυτόνομο Κοινωφελές Ιδρυμα Υποτροφιών Ρόδου Εμμανουήλ Χριστ. ταματίου Μαίρης Σταματίου έργο age_bin Primes έργο EcoSeed"](https://scontent.fath4-2.fna.fbcdn.net/v/t39.30808-6/292000815_5861496290530420_147696347011162390_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHPIVPbOeKVBTTSd2a6yfIL_H3ATTG4KBX8fcBNMbgoFRv5Pv48D6p32Lc2_UYJtpwDeQcyEQ2HgCad-BLhmDxp&_nc_ohc=PlPP_BsEHSYAX8Kd3Re&_nc_ht=scontent.fath4-2.fna&oh=00_AfB12N4mv88932tvz05jWLGpNxI7eY4GMuF-HeXUZAgYLg&oe=63F8A2D1 align="center")
 
-I had the pleasure to answer all of your Azure IoT questions live, with the Azure IoT expert and Cloud Advocate, [Bruno Capuano](https://www.linkedin.com/in/ACoAAABtnGUBHB0C-3JKunt1dCnk2PvzHy1oH8Q).
+I had the pleasure of answering all of your Azure IoT questions live, with the Azure IoT expert and Cloud Advocate, [Bruno Capuano](https://www.linkedin.com/in/ACoAAABtnGUBHB0C-3JKunt1dCnk2PvzHy1oH8Q).
 
 I wrote the “[**AMA – Ask Me Anything at Reactor: Azure IoT**](https://www.thinkaboutiot.com/index.php/2022/07/13/ama-ask-me-anything-at-reactor-azure-iot/)” and the “[**Azure IoT News – July 2022 by Think About IoT**](https://www.thinkaboutiot.com/index.php/2022/07/19/azure-iot-news-july-2022-by-think-about-iot/)”.
 
@@ -84,7 +84,7 @@ Last but not least, I travelled with my family, and we had a great tour around t
 
 In August, I graduated from the Computer Engineering and Informatics Department of the University of Patras with the Integrated Master's / Diploma of Engineering in Computer Engineering & Informatics! Yaaay!!!
 
-![Δεν υπάρχει διαθέσιμη περιγραφή για τη φωτογραφία.](https://scontent.fath3-3.fna.fbcdn.net/v/t39.30808-6/295686219_10228024092888356_5505670312866600954_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGNXpewzEo29s4Mhew_WnwuTX77MaLfer5Nfvsxot96vjx8S35b_vTd68-WCYWoSv96BiKqrq57t3zJVpPl-4oY&_nc_ohc=2GrKEszXsBQAX9JWD0O&_nc_oc=AQlfMUfeRHZ0pmhU8SY_t9PmaNAnyv7on9UbkKvksMEuT4urhIWjq1kPIricoBjDodx4u4l6qHMrqhnqHRmT3s0A&_nc_ht=scontent.fath3-3.fna&oh=00_AfAbkYj_xEH5DGyehSPS5z1i37YifT95ERLt5CwFp7Lr0A&oe=63B49A2F align="center")
+![Μπορεί να είναι εικόνα 5 άτομα και όρθια άτομα](https://scontent.fath4-2.fna.fbcdn.net/v/t39.30808-6/297669129_5953260561353992_4340979228688040063_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF8bTJF8UeHv2jx6maY0EPCqqU0G1W-bleqpTQbVb5uV1epTuK8ofoCkPJ40AUm4LfU96xmJ7vgdzMBj90ZFfMu&_nc_ohc=NZnQ1HngvNAAX83WK9O&_nc_ht=scontent.fath4-2.fna&oh=00_AfBZM48g1KfEMYa3JDCFONj09oUHBhI28X1eBI0WOqeMqw&oe=63F8BADA align="center")
 
 I wrote the “[**Azure IoT News – August 2022 by Think About IoT**](https://www.thinkaboutiot.com/index.php/2022/08/09/azure-iot-news-august-2022-by-think-about-iot/)".
 
@@ -102,7 +102,7 @@ In that month, the “Microsoft MVP Award Program Blog” published an article t
 
 Moreover, I passed the Azure IoT Developer Specialty Microsoft certification exam!
 
-Also, my best friend Sofie had come to Rhodes to visit me, and we had a superb time together.
+Also, my best friend Sofie came to Rhodes to visit me, and we had a superb time together.
 
 ### October
 
