@@ -1,4 +1,15 @@
-# Azure IoT News – February 2023 by Think About IoT
+---
+title: "Azure IoT News – February 2023 by Think About IoT"
+seoTitle: "Azure IoT News – February 2023"
+seoDescription: "Azure IoT News is here for one more month! Let’s take a look at the news of February 2023 together."
+datePublished: Tue Feb 28 2023 15:45:44 GMT+0000 (Coordinated Universal Time)
+cuid: cleof7ryl000b0amgbcya6c98
+slug: azure-iot-news-february-2023-by-think-about-iot
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677599121154/15b2d8bf-3cde-4fc0-8e0f-ee5f5d7a1b2c.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677599134426/0b74d4fc-6fb5-4893-bcb4-baf03113310f.jpeg
+tags: news, microsoft, azure, iot, internet-of-things
+
+---
 
 ## **Week 1-5/2**
 
@@ -28,11 +39,11 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-n
 
 🔸 **Azure Sphere** OS version 23.02 is now available for evaluation in the Retail Eval feed.
 
-Areas of special focus for compatibility testing with 23.02 should include apps and functionality utilizing: 
+Areas of special focus for compatibility testing with 23.02 should include apps and functionality utilizing:
 
-* Wired ethernet networking 
+* Wired ethernet networking
     
-* Wiznet’s W5500 wired ethernet NIC 
+* Wiznet’s W5500 wired ethernet NIC
     
 * Network configurations
     
@@ -109,4 +120,4 @@ Take care of yourself and have fun! 😊
 
 If you have any questions, please reach out.
 
-You can also be informed about [**Azure IoT News for January 2022**](https://www.thinkaboutiot.com/index.php/2023/02/03/azure-iot-news-january-2023-by-think-about-iot/).
+You can also be informed about [**Azure IoT News for January 2023**](https://www.thinkaboutiot.com/index.php/2023/02/03/azure-iot-news-january-2023-by-think-about-iot/).
