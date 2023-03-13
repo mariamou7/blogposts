@@ -25,7 +25,7 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-b
 
 ## **Week 6-12/3**
 
-🔸 The [meta-iotedge](https://github.com/azure/meta-iotedge) layer now contains Kirkstone-compatible recipes to build the latest [1.4 LTS release of IoT Edge](https://azure.microsoft.com/en-us/updates/generally-available-iot-edge-14-lts/).
+🔸 The [meta-iotedge](https://github.com/azure/meta-iotedge) layer now contains Kirkstone-compatible recipes to build the latest [1.4 LTS release of IoT Edge](https://azure.microsoft.com/en-us/updates/generally-available-iot-edge-14-lts/?WT.mc_id=IoT-MVP-5004643).
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-yocto-kirkstone-recipes-for-iot-edge-14-lts/?WT.mc_id=IoT-MVP-5004643).
 
