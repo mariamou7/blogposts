@@ -19,7 +19,7 @@ tags: news, microsoft, azure, iot, internet-of-things
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-4-tib-8-tib-and-16-tib-storage-per-node-for-azure-cosmos-db-for-postgresql/?WT.mc_id=IoT-MVP-5004643).
 
-🔸 The new 1-vCore with 2 GiB RAM and 2-vCore with 4 GiB RAM burstable compute options in **Azure Cosmos DB** for **PostgreSQL** provide the flexibility to start small and grow big as your Postgres workload requirements are increasing.
+🔸 The new 1-vCore with 2 GiB RAM and 2-vCore with 4 GiB RAM burstable compute options in **Azure Cosmos DB** for **PostgreSQL** provide the flexibility to start small and grow big as your Postgres workload requirements increase.
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-burstable-compute-for-single-node-configurations-for-azure-cosmos-db-for-postgresql/?WT.mc_id=IoT-MVP-5004643).
 
@@ -31,15 +31,86 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/general-availability-
 
 ## **Week 13-19/3**
 
-Coming soon...
+🔸 The **Azure Digital Twins** Data history now supports historizing twin property updates, twin lifecycle events, and relationship lifecycle events.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-digital-twins-data-history-supports-graph-updates/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 You can now access **Azure Machine Learning**’s high-service capabilities to accelerate the end-to-end machine learning lifecycle in the UK West region.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-machine-learning-march-2023-region-expansion-announcement/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 **Azure Machine Learning**'s new feature is now available in Public Preview.
+
+It includes the ability to:
+
+* gain insight and receive troubleshooting documentation on failed environment builds
+    
+* view and edit pipeline inputs & outputs before submitting a pipeline job
+    
+* speed up the checkpoint-saving process
+    
+* shorten the end-to-end training phase of large-scale distributed PyTorch models
+    
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-machine-learning-public-preview-updates-for-march-2023/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 You can now change data capture for **Azure Cosmos** DB analytical store.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-change-data-capture-for-azure-cosmos-db-analytical-store/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 **Data API builder** instantly creates modern REST and GraphQL endpoints for modern databases.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-data-api-builder-instantly-creates-modern-rest-and-graphql-endpoints-for-modern-databases/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 **Azure Durable Functions** support of managed identity for Azure Storage is now generally available.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-durable-functions-support-of-managed-identity-for-azure-storage/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 **Azure Kubernetes Service Edge Essentials** is now available and is a Microsoft-supported lightweight Kubernetes distribution that is fine-tuned to run on edge devices with constrained resources.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/now-available-azure-kubernetes-service-edge-essentials/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 New features are now available in general availability for **Azure Machine Learning**.
+
+These features include the ability to visualize time series models accurately over time, and deploy a compute cluster or compute instance without any public IP addresses.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-machine-learning-generally-availability-updates-for-march-2023/?WT.mc_id=IoT-MVP-5004643).
 
 ## **Week 20-26/3**
 
-Coming soon...
+🔸 Indoor maps onboarding and new Features API improvements in **Azure Maps Creator**.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-maps-creator-improved-indoor-maps-onboarding-and-new-features-api/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 Workspaces for **Azure API Management** is now in public preview.
+
+This new update enables granular access control in multi-team Azure API Management deployments.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-workspaces-in-azure-api-management/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 Azure Private Link support for inbound traffic in **Azure API Management**.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/generally-available-azure-private-link-support-in-azure-api-management/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 The **Azure Maps** Elevation services and Render V2 DEM tiles' general availability will be retired on 5 May 2023.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-maps-elevation-apis-and-render-v2-dem-tiles-will-be-retired-on-5-may-2023/?WT.mc_id=IoT-MVP-5004643).
 
 ## **Week 27-31/3**
 
-Coming soon...
+🔸 **Azure Cosmos DB** for MongoDB vCore offers an integrated, performant and cost-efficient fully managed database for your MongoDB workloads.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/public-preview-azure-cosmos-db-for-mongodb-vcore/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 **Azure Maps** joins several other Azure services with Health Insurance Portability and Accountability Act compliance.
+
+This feature enables healthcare and health insurance providers to use mapping and geospatial services in even more solutions while ensuring that protected health information (PHI) is managed appropriately.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/azure-maps-is-now-hipaa-health-insurance-portability-and-accountability-act-compliant-2/?WT.mc_id=IoT-MVP-5004643).
+
+🔸 On 31 March 2024, the **Azure SQL Server** connector’s V1 actions and triggers on **Logic Apps** will be retired.
+
+Read more [here](https://azure.microsoft.com/en-gb/updates/sql-server-connector-s-v1-actions-and-triggers-will-be-retired-on-31-march-2024-transition-to-sql-server-connector-s-v2-actio/?WT.mc_id=IoT-MVP-5004643).
 
 ## **Closing**
 
