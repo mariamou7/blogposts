@@ -19,7 +19,7 @@ Read more [here](https://azure.microsoft.com/en-gb/updates/important-notice-azur
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/azure-maps-gen1-price-tier-retirement/?wt.mc_id=studentamb_3012).
 
-🔸 **Azure Maps** Render V1 APIs will be retired on 17 September 2026**.**
+🔸 **Azure Maps** Render V1 APIs will be retired on 17 September 2026.
 
 Read more [here](https://azure.microsoft.com/en-gb/updates/azure-maps-render-v1-apis-will-be-retired-on-17-september-2026/?wt.mc_id=studentamb_3012).
 
