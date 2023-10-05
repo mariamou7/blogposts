@@ -33,4 +33,4 @@ Take care of yourself and have fun! 😊
 
 If you have any questions, please reach out.
 
-You can also be informed about **Azure IoT News for Summer 2023**.
+You can also be informed about [**Azure IoT News for Summer 2023**](https://www.thinkaboutiot.com/index.php/2023/09/01/azure-iot-news-summer-2023-by-think-about-iot/).
