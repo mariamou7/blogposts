@@ -30,7 +30,7 @@ You will need:
 
 # Steps
 
-### New Project
+## New Project
 
 Open Visual Studio and press “Continue without code”.
 
