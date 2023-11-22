@@ -11,13 +11,13 @@ tags: microsoft, plugins, visual-studio, crm, dynamics365
 
 ---
 
-## Intro
+# Intro
 
 In the previous **Microsoft Business App** series article, we explored creating a plugin using the “**Power Platform Tools for VS 2022 Extension**” tool. However, it's worth noting that we can also develop a plugin **without this tool** in case it encounters any issues or isn't suited to our specific needs.
 
 🧩 So let's get started!
 
-## Requirements
+# Requirements
 
 You will need:
 
@@ -28,7 +28,7 @@ You will need:
 * Plugin Registration Tool
     
 
-## Steps
+# Steps
 
 ### New Project
 
@@ -106,7 +106,7 @@ After signing in, select “Register” → “Register New …”.
 
 Load the assembly you have created, mark the boxes, and press “Register Selected Plugins”.
 
-## Closing
+# Closing
 
 Now that you have the basics down, you are ready to start writing your code. Remember not to be afraid to experiment. The possibilities are endless!
 
