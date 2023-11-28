@@ -48,7 +48,6 @@ This integration expands Power Pages' capabilities, enabling makers to create we
     
     1. **Empowering Managers with AI-Driven Insights and Streamlined Workflows**
         
-
 * **Copilot for Outlook Add-in**
     
     Introduced in preview earlier and becoming generally available in December, Copilot capabilities in the Dynamics 365 Field Service Outlook add-in streamline work order creation for frontline managers. Relevant details are pre-populated from emails, and data-driven scheduling recommendations optimize technician assignments based on factors such as travel time, availability, and skillset, all without switching between applications. Managers can easily review and modify these work orders as customer needs evolve.
@@ -59,7 +58,6 @@ This integration expands Power Pages' capabilities, enabling makers to create we
     
     1. **Enhanced Efficiency through Integrated Solutions**
         
-
 * **Seamless Financial and Inventory Data Flow**
     
     A new integration between Dynamics 365 Field Service, Dynamics 365 Finance, and Dynamics 365 Supply Chain Management ensures seamless synchronization of financial and inventory data between frontline and back-office operations. By syncing real-time price and cost information from work orders and automatically updating financial and inventory data as work orders are executed, this integration, currently in preview, streamlines data management and reduces manual effort.
