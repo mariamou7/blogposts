@@ -31,8 +31,7 @@ This integration expands Power Pages' capabilities, enabling makers to create we
 
 **Dynamics 365 Field Service**, a solution that empowers businesses to revolutionize their service operations and enhance customer experiences by leveraging AI, mixed reality, and the Internet of Things, unveils a range of new Copilot capabilities and integrated offerings. These advancements include:
 
-1. **Boosting Technician Productivity with AI-Powered Assistance**
-    
+**Boosting Technician Productivity with AI-Powered Assistance**
 
 * **Copilot Integration with Microsoft Teams**
     
@@ -46,8 +45,8 @@ This integration expands Power Pages' capabilities, enabling makers to create we
     
     In the preview for December, new Copilot capabilities in the Dynamics 365 Field Service mobile app enable technicians to quickly grasp key work order details without navigating through multiple tabs. Technicians can swiftly provide progress updates by simply speaking to Copilot, accelerating data entry and allowing them to focus on delivering exceptional customer service.
     
-    1. **Empowering Managers with AI-Driven Insights and Streamlined Workflows**
-        
+    **Empowering Managers with AI-Driven Insights and Streamlined Workflows**
+    
 * **Copilot for Outlook Add-in**
     
     Introduced in preview earlier and becoming generally available in December, Copilot capabilities in the Dynamics 365 Field Service Outlook add-in streamline work order creation for frontline managers. Relevant details are pre-populated from emails, and data-driven scheduling recommendations optimize technician assignments based on factors such as travel time, availability, and skillset, all without switching between applications. Managers can easily review and modify these work orders as customer needs evolve.
@@ -56,8 +55,8 @@ This integration expands Power Pages' capabilities, enabling makers to create we
     
     Now generally available, the redesigned Dynamics 365 Field Service work order management experience prioritizes critical information, reducing the number of clicks required for key tasks by over a third. Additionally, Copilot is available in preview within this experience to provide frontline managers with intelligent recaps, enabling them to stay informed without having to sift through all the work order details.
     
-    1. **Enhanced Efficiency through Integrated Solutions**
-        
+    **Enhanced Efficiency through Integrated Solutions**
+    
 * **Seamless Financial and Inventory Data Flow**
     
     A new integration between Dynamics 365 Field Service, Dynamics 365 Finance, and Dynamics 365 Supply Chain Management ensures seamless synchronization of financial and inventory data between frontline and back-office operations. By syncing real-time price and cost information from work orders and automatically updating financial and inventory data as work orders are executed, this integration, currently in preview, streamlines data management and reduces manual effort.
