@@ -5,8 +5,8 @@ seoDescription: "Azure IoT News is here for a summer wrap up! Let’s take a loo
 datePublished: Wed Nov 29 2023 19:44:06 GMT+0000 (Coordinated Universal Time)
 cuid: clpk6dqof000j09l8dubz8wf6
 slug: azure-iot-news-november-2023-by-think-about-iot
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701168973733/44f3206d-352c-4970-828c-0ff118a72684.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1701169054332/cf5b2bd5-c0f2-41b6-9830-a1147980cfa5.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701287373151/9745fe24-8ea1-4ea7-8a47-3d102bc3a90d.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1701287394694/7dfa0cce-c49e-4678-8d4b-2647f4d7d61b.png
 tags: cloud, news, microsoft, azure, iot, cloud-computing, internet-of-things
 
 ---
