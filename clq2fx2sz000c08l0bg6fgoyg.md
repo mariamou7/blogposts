@@ -107,7 +107,17 @@ Finally, click the “PluginRegistration” and you are ready to use the “Plug
 
 ### Specific Functionalities
 
-1. Register New:
+1. Update
+    
+2. Logging to Plugin Trace Log
+    
+3. Profiler
+    
+4. Debug
+    
+5. Unregister
+    
+6. Register New:
     
 
 * Assembly
@@ -125,18 +135,6 @@ Finally, click the “PluginRegistration” and you are ready to use the “Plug
 * Data Provider
     
 * Custom API
-    
-
-1. Logging to Plugin Trace Log
-    
-2. Profiler
-    
-3. Debug
-    
-
-1. Update
-    
-2. Unregister
     
 
 ## Closing
