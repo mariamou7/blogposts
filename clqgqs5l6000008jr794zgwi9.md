@@ -15,7 +15,7 @@ tags: microsoft, tools, plugins, extension, chrome-extension, powerplatform, dyn
 
 Dynamics 365 plugins are a powerful way to extend the functionality of Dynamics 365. They can be used to add new features, modify existing functionality, or integrate with third-party systems.
 
-Several tools are available to help you develop and manage Dynamics 365 plugins. One of these tools is the “**Level up for Dynamics 365/Power Apps**” **extension**.
+Several tools are available to help you develop and manage Dynamics 365 plugins. One of these tools is the “**Level up for Dynamics 365/Power Apps**” **extension** by [**Natraj Yegnaraman**](https://twitter.com/RajYRaman)**.**
 
 ## Level up for Dynamics 365/Power Apps
 
@@ -41,6 +41,8 @@ The “Level up for Dynamics 365/Power Apps” extension is a free tool that pro
 The “Level up for Dynamics 365/Power Apps” extension is a valuable tool for developers and administrators who work with Dynamics 365 plugins. It can save you time and effort by providing many useful features that are not available in the default Dynamics 365 user interface.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703171037387/8e3b8c92-d7b8-414d-b42f-e526f023ba64.png align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703256662118/2be44c6a-4370-485c-a00e-74ace9a10603.png align="center")
 
 **How to install the “Level up for Dynamics 365/Power Apps” extension**
 
