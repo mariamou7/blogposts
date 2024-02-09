@@ -5,6 +5,7 @@ seoDescription: "In this blog post, I will share my favourite blogs for Dynamics
 datePublished: Fri Feb 09 2024 16:32:56 GMT+0000 (Coordinated Universal Time)
 cuid: clsev988x000708i50rr5hvhn
 slug: my-favourite-blogs-for-dynamics-365-and-power-platform
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707496394564/5709bdd6-7a57-4782-bcc8-f64721eba2fb.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1707496370203/a5f22a3e-b202-486c-863f-a984465e706a.png
 tags: blogging, microsoft, powerapps, dynamics365, microsoft-power-platform
 
