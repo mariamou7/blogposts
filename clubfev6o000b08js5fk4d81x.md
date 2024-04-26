@@ -29,6 +29,16 @@ Don't worry, you can continue using the Native SDK until the deadline. However, 
 
 Read more, [here](https://azure.microsoft.com/en-gb/updates/azure-maps-native-sdk-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk/?wt.mc_id=studentamb_3012).
 
+### **Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be retired**
+
+Attention Azure Maps and IoT developers! A heads-up regarding upcoming product retirements. Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be discontinued on September 30th, 2026.
+
+To ensure uninterrupted service, Microsoft recommends transitioning to the latest versions: Azure Maps Web SDK Map Control version 3 and Azure Maps JavaScript REST SDK. Version 3 of the Web SDK Map Control offers various improvements, while the JavaScript REST SDK provides enhanced stability.
+
+There's no need to rush – you can continue using versions 2.0.x and the Service Module until the deadline. However, after September 30th, 2026, applications relying on these versions will cease functioning, and associated data will be lost. To make the migration process as smooth as possible, Microsoft provides resources to guide you through the switch. Don't wait until the last minute – start planning your transition today!
+
+Read more, [here](https://azure.microsoft.com/en-gb/updates/azure-maps-web-sdk-map-control-version-20x-and-azure-maps-service-module-will-be-retired-on-30-september-2026/?wt.mc_id=studentamb_3012).
+
 ## Closing
 
 That’s all folks! 👋
