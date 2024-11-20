@@ -21,7 +21,7 @@ Microsoft Ignite is one of the biggest events for the Microsoft community, and f
     
 * **Description**: Join experts from Microsoft and NVIDIA for an interactive demo featuring Azure IoT Operations and Power BI, enhanced by NVIDIA Omniverse Cloud APIs and OpenUSD. Discover how these cutting-edge technologies empower enterprise developers and operations teams with advanced real-time monitoring, collaborative tools, and physics-based visualization capabilities. Gain fresh insights into production processes and explore new opportunities to optimize operations.
     
-* Attend [here](https://ignite.microsoft.com/en-US/sessions/BRKFP380?wt.mc_id=studentamb_3012).
+* Attend [here](https://ignite.microsoft.com/sessions/BRKFP380?wt.mc_id=studentamb_3012).
     
 
 ### Explore a new era of digital manufacturing
@@ -30,7 +30,7 @@ Microsoft Ignite is one of the biggest events for the Microsoft community, and f
     
 * **Description**: Join Microsoft and NVIDIA experts to explore how cutting-edge innovations in computer graphics, data interoperability, generative AI, and accelerated cloud computing are transforming manufacturing operations. Discover how Azure IoT Operations, integrated with NVIDIA Omniverse Cloud APIs and OpenUSD, empowers enterprise developers and operations teams with advanced real-time monitoring, collaborative tools, and physics-based visualization. Unlock new production insights and drive the digitalization of your operations.
     
-* Attend [here](https://ignite.microsoft.com/en-US/sessions/StudioFP109?wt.mc_id=studentamb_3012).
+* Attend [here](https://ignite.microsoft.com/sessions/StudioFP109?wt.mc_id=studentamb_3012).
     
 
 ### **Accelerate Industrial Transformation with Azure IoT Operations**
@@ -39,7 +39,7 @@ Microsoft Ignite is one of the biggest events for the Microsoft community, and f
     
 * **Description**: AI unlocks the value of all data. Paired with modern infrastructure and advanced computing, evolving AI empowers organizations with unparalleled access to insights that drive transformation. Discover how Azure IoT Operations enhances large-scale visibility by accessing OT and edge data previously confined within industrial assets and processes.
     
-* Attend [here](https://ignite.microsoft.com/en-US/sessions/BRK262?wt.mc_id=studentamb_3012).
+* Attend [here](https://ignite.microsoft.com/sessions/BRK262?wt.mc_id=studentamb_3012).
     
 
 ---
