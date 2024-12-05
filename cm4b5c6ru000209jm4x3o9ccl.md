@@ -149,7 +149,7 @@ Ready to try it yourself? 🎄🎁 Happy holidays and happy app-building!
 
 ## **Fundraising**
 
-This year the Festive Tech [Calendar Team is](https://powerapps.microsoft.com/) **raising money** for the [**Beatson Cancer Charity**](https://www.beatsoncancercharity.org/) and hopes to raise **£2500** for this awesome charity! 🙏
+This year the Festive Tech Calendar Team is **raising money** for the [**Beatson Cancer Charity**](https://www.beatsoncancercharity.org/) and hopes to raise **£2500** for this awesome charity! 🙏
 
 If you would like to donate, please visit **Festive Tech Calendar's** [**Just Giving Page**](https://www.justgiving.com/page/festive-tech-calendar-2024).
 
